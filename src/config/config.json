@@ -1,0 +1,8 @@
+{
+    "TOKEN": "TOKEN_HERE",
+    "CLIENTID": "CLIENT_ID_HERE",
+    "PREFIX": "PREFIX_HERE",
+    "OWNER": [
+        "OWNER_ID_HERE"
+    ]
+}

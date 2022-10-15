@@ -1,0 +1,17 @@
+{
+    "roles": {
+        "announcementrole": "ROLE_ID",
+        "giveawayrole": "ROLE_ID",
+        "pollrole": "ROLE_ID",
+        "youtuberole": "ROLE_ID",
+        "acceptrole": "ROLE_ID"
+    },
+    "images": {
+        "rulesimage": "https://cdn.discordapp.com/attachments/863024911143927819/1030720507273805864/serverrules.jpg",
+        "rolesimage": "https://cdn.discordapp.com/attachments/863024911143927819/1030720507508707399/serverroles.jpg",
+        "welcomeimage": "https://cdn.discordapp.com/attachments/863024911143927819/1030723517852958751/welcome.jpg"
+    },
+    "channel": {
+        "feedback": "CHANNEL_ID"
+    }
+}
