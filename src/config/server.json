@@ -7,9 +7,9 @@
         "acceptrole": "ROLE_ID"
     },
     "images": {
-        "rulesimage": "https://cdn.discordapp.com/attachments/863024911143927819/1030720507273805864/serverrules.jpg",
-        "rolesimage": "https://cdn.discordapp.com/attachments/863024911143927819/1030720507508707399/serverroles.jpg",
-        "welcomeimage": "https://cdn.discordapp.com/attachments/863024911143927819/1030723517852958751/welcome.jpg"
+        "rulesimage": "https://cdn.discordapp.com/attachments/863024911143927819/1040588361582252074/20221015_112324.jpg",
+        "rolesimage": "https://cdn.discordapp.com/attachments/863024911143927819/1040588361800372264/20221015_112346.jpg",
+        "welcomeimage": "https://cdn.discordapp.com/attachments/863024911143927819/1040588362014273576/20221015_113640.jpg"
     },
     "channel": {
         "feedback": "CHANNEL_ID"
