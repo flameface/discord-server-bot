@@ -38,7 +38,7 @@ client.on('interactionCreate', async interaction => {
                     .setStyle(ButtonStyle.Success)
             )
         const embed = new EmbedBuilder()
-            .setAuthor({ name: `${interaction.guild.name}'s Discord Rule`, iconURL: `${interaction.guild.iconURL()}` })
+            .setAuthor({ name: `${interaction.guild.name}'s Discord Rule`, iconURL: interaction.guild.iconURL() || null })
             .setImage(`${server.images.rolesimage}`)
             .setColor(`#2f3136`)
         interaction.reply({
