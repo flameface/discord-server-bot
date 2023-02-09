@@ -29,7 +29,7 @@ client.on('interactionCreate', async interaction => {
                     .setURL('https://discord.com/guidelines')
             )
         const embed = new EmbedBuilder()
-            .setAuthor({ name: `${interaction.guild.name}'s Discord Rule`, iconURL: `${interaction.guild.iconURL()}` })
+            .setAuthor({ name: `${interaction.guild.name}'s Discord Rule`, iconURL: interaction.guild.iconURL() || null })
             .setDescription(stripIndent`
             **[#Rule 1]** No spamming, advertising, & sending NSFW content in server. Don't be hash or abuse others.
 
